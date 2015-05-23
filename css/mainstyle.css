@@ -1,0 +1,31 @@
+/*******************************************************
+ * project: Visual code demonstrator
+ *  author: Matija Belec
+ *    date: 23.05.2015
+ ********************************************************/
+
+body {
+    text-align: center;
+}
+
+h1,
+h2{
+    color: #3366CC;
+}
+h1 {
+    font-size: 28pt;
+}
+h2 {
+    font-size: 22pt;
+}
+
+p {
+    font-size: 12pt;
+    color: #565656;
+}
+
+.vcd_viewer {
+    border: 1px solid #000000;
+    margin-left: auto;
+    margin-right: auto;
+}
